@@ -1,2 +1,42 @@
 # my-resume.github.io
 My Resume
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+    </head>
+    <body>
+        <h1>HTML code to create an online resume</h1>
+        <hr/>
+        <p>Profile picture:</p>
+        <a href=".\image.png"><img src=".\image.png" alt="My Image" width="200" height="200"></a>
+        <hr/>
+        <h2>Personal Information:</h2>
+        <ul>
+            <li>Name: Rakesh R</li>
+            <li>Nationality: Indian</li>
+            <li>Date of Birth: 26th August 2008</li>
+            <li>Qualification: Engineering on Data science</li>
+            <li>skills: HTML, CSS, JavaScript, python, mysql, c++</li>
+            <li>Experience: 1 year in web development</li>
+            <li>Known languages: English, Hindi, Kannada, Tamil, Malayalam,</li>
+        </ul>
+        <hr/>
+        <h2>Education:</h2>
+        <ul>
+            <li>2018-2020: High School, ABC School, Mangalore</li>
+            <li>2020-2022: Pre-University Course in Science, DEF College, Mangalore</li>
+            <li>2020-2024: Bachelor of Engineering in Data Science, XYZ University, Mangalore</li>
+        </ul>
+        <hr/>
+        <a href=".\contact.html">Contact Information</a> <br/>
+        <a href=".\hobbies.html">Hobbies</a>
+        <hr/>
+        <h2>Summary:</h2>
+        <p>I am a passionate web developer with a strong foundation in HTML, CSS, and JavaScript. I have hands-on experience in creating responsive and user-friendly websites. They are interactive with the users. i havevast experience on web devolopment...</p>
+        <hr/>
+        <footer>
+            <p>© 2026 Rocky. All rights reserved</p>
+        </footer>
+    </body>
+</html>
